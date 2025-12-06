@@ -6,10 +6,10 @@ I'm a Math-CS student at the **University of California San Diego (UCSD)** passi
 ---
 
 ## 🚀 About Me
-
-- 🚴 Outside of coding, I love staying active, going on hikes, and playing basketball/volleyball  
+ 
 - 🛠️ Currently building a tool that generates a cheatsheet from lecture notes within minutes  
 - 📚 Learning more about system design, parallel computing, and containerized workflows
+- 🚴 Outside of coding, I love staying active, going on hikes, and playing basketball/volleyball 
 
 ---
 
